@@ -16,7 +16,7 @@ public class Valla : Obstaculo
     private void Start()
     {
         nombre = "Valla";
-        daño = 20;
+        daño = 5;
     }
 }
 
